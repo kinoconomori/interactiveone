@@ -1,0 +1,162 @@
+body {
+background-color:#ccb3b5;
+font-size: 30px;
+}
+
+
+
+#redcircle {
+font-family: helvetica;
+font-weight: bold;
+color:#000000;
+letter-spacing: -.5px;
+font-size:27px;
+margin-top:75px;
+margin-left: 250px;
+width: 400px;
+height: 400px;
+background: #d44b39;
+border-radius: 200px;
+position: absolute;
+z-index:3;
+
+}
+
+
+#tinyblackcircle {
+margin-top: 185px;
+margin-left: 185px;
+width: 25px;
+height: 25px;
+background: #2d2823;
+border-radius: 12.5px;
+position: absolute;
+z-index:3;
+
+}
+
+
+#blackcircle {
+margin-top: -275px;
+margin-left:-100px;
+width: 1100px;
+height: 1100px;
+background: #2d2823;
+border-radius: 550px;
+position: absolute;
+z-index:2;
+}
+
+#words{
+margin-top: 775px;
+margin-left: 45px;
+font-family: helvetica;
+color:#FFFFFF;
+font-size:16px;
+font-weight:lighter;
+letter-spacing: -.25px;
+
+}
+
+#an {
+	margin-left:15px;
+	margin-top:225px;
+}
+
+#de {
+	margin-left:130px;
+}
+
+#su {
+	margin-left:265px;
+}
+
+
+#un {
+	margin-left:540px;
+	margin-top:720px;
+}
+
+#dela {
+	margin-left:570px;
+	margin-top:0px;
+}
+
+
+#du9 {
+	margin-left:500px;
+	margin-top:0px;
+}
+
+#sur {
+	margin-left:430px;
+	margin-top:35px;
+}
+
+
+#int {
+	margin-left:395px;
+}
+
+
+#demi
+{
+	margin-left:320px;
+	margin-top:0px;
+}
+
+#twofive
+{
+	margin-left:280px;
+	margin-top:0px;
+}
+
+
+#rensei
+{
+	margin-left:235px;
+	margin-top:35px;
+}
+
+#pro
+{
+	margin-left:275px;
+	margin-top:0px;
+}
+
+
+#par
+{
+	margin-left:385px;
+	margin-top:0px;
+}
+
+
+
+#bottom {
+	margin-left:0px;
+	margin-top:670px;
+	font-family: helvetica;
+	font-weight:lighter;
+	color:#2d2823;
+	font-size:17px;
+	position:absolute;
+}
+
+
+
+#comm {
+	margin-left:475px;
+	margin-top:215px;
+}
+
+#pour {
+	margin-left:510px;
+	margin-top:0px;
+}
+
+#delam {
+	margin-left:550px;
+	margin-top:0px;
+	padding-bottom:200px;
+}

@@ -1,0 +1,381 @@
+body
+{
+	
+    background-image: url(../images/pattern.jpg);
+    background-attachment: fixed;
+	color:#fbf9f7;
+	text-align:justify;
+	font-family: 'Muli', sans-serif;
+	font-size:10pt;
+
+}
+
+
+b{
+	font-family: 'Muli', sans-serif;
+	font-size:10pt;
+	color:#FFFFFF;
+	background-color:#4d245e;
+	padding-top:2px;
+	padding-bottom:2px;
+	padding-left:2px;
+	padding-right:2px;
+}
+
+
+i{
+	font-family: 'Muli', sans-serif;
+	font-size:10pt;
+	text-decoration:none;
+	color:#FFFFFF;
+	background-color:#e68423;
+	padding-top:2px;
+	padding-bottom:2px;
+	padding-left:2px;
+	padding-right:2px;
+}
+
+
+a:link {
+    font-family: 'Muli', sans-serif;
+    font-size:10pt;
+    color:#FFFFFF;
+    background-color: #7dad92;
+    margin-top:3px;
+    padding:2px;
+    font-weight:bold;
+    text-decoration:none;
+}
+
+a:visited {
+    font-family: 'Muli', sans-serif;
+    font-size:10pt;
+    color:#FFFFFF;
+    background-color: #7dad92;
+    text-decoration:none;
+}
+
+a:hover {
+    font-family: 'Muli', sans-serif;
+    font-size:10pt;
+    color:#FFFFFF;
+    background-color: #b0d6c1;
+    font-weight:bold;
+    text-decoration:none;
+}
+
+a:active {
+    font-family: 'Muli', sans-serif;
+    font-size:10pt;
+    color:#FFFFFF;
+    background-color: #b0d6c1;
+    font-weight:bold;
+    text-decoration:none;
+}
+
+
+
+.big
+ 	{
+ 		font-family: 'Arvo', sans-serif;
+		font-size:35pt;
+		color:#f5b122;
+		margin-bottom:-15px;
+		padding-left:50px;
+ 	}
+
+
+ .infobox
+ 	{
+ 		font-family: sans-serif;
+		font-size:11pt;
+		color:#FFFFFF;
+ 	}
+
+
+
+ .q
+ 	{
+ 		font-family: sans-serif;
+		font-size:11pt;
+		background-color:#f5b122;
+		color:#FFFFFF;
+		font-weight:bold;
+		padding-top:-5px;
+		padding-left:5px;
+		transform: skewX(15deg);
+ 	}
+
+
+ 	.album
+ 	{
+ 		font-family: 'Arvo', sans-serif;
+		font-size:18pt;
+		color:#f5b122;
+		font-weight:bold;
+ 	}
+
+#bottominfo{
+	top:6425px;
+	left:500px;
+	height:200px;
+	width:200px;
+	position:absolute;
+	overflow:auto;
+	z-index:8;
+
+
+}
+
+#bottominfo2{
+	top:6425px;
+	left:675px;
+	height:200px;
+	width:200px;
+	padding-bottom:300px;
+	position:absolute;
+	overflow:auto;
+	z-index:8;
+
+
+}
+
+
+
+#bottominfo3{
+	top:6425px;
+	left:850px;
+	height:200px;
+	width:200px;
+	position:absolute;
+	overflow:auto;
+	z-index:8;
+
+
+}
+
+#main
+{
+	font-size:9pt;
+	color:#FFFFFF;
+	background-color:#DAA520;
+	width:450px;
+	margin-left:200px;
+	margin-top:300px;
+	overflow:auto;
+	outline: 5px dashed #FFFFFF;
+	padding:5px;
+	z-index:4;
+}
+
+
+#bgtext
+{
+	font-family: 'Sancreek', serif;
+	font-size:75pt;
+	top:0px;
+	color:#FFFFFF;
+	z-index:3;
+	position:fixed;
+}
+
+
+#info
+{	
+	top:500px;
+	left:800px;
+	z-index:5;
+	position:absolute;
+}
+
+
+
+#momobio
+{	
+	top:1300px;
+	left:610px;
+	font-family: 'Arvo', sans-serif;
+	font-size:15pt;
+	color:#FFFFFF;
+	z-index:6;
+	position:absolute;
+}
+
+#koharubio
+{	
+	top:1400px;
+	left:975px;
+	font-family: 'Arvo', sans-serif;
+	font-size:15pt;
+	color:#FFFFFF;
+	z-index:6;
+	position:absolute;
+}
+
+
+#charanpo
+{
+	background-image: url(../images/bg1.jpg);
+	margin-top:850px;
+	margin-left:-10px;
+	margin-right:-8px;
+	width:auto;
+	height:850px;
+	z-index:2;
+	position:relative;
+}
+
+#accordion {
+	left:350px;
+	top:2000px;
+	width:1000px;
+	height:auto;
+	position:absolute;
+	z-index:5;
+}
+
+
+	#accordiontop {
+		width: 700px;
+		height: 300px;
+		background-color:#1d4c80;
+		position: relative;
+
+	}
+
+	#accordion1{
+		width: 700px;
+		height: 250px;
+		left:33px;
+		color:#000000;
+		background-color:#fefdfd;
+		position: relative;
+		transform: skewX(15deg);
+
+	}
+
+	#accordion2{
+		width: 700px;
+		height: 250px;
+		left:33px;
+		background-color:#fdf6f6;
+		position: relative;
+		transform: skewX(-15deg);
+
+	}
+
+
+
+#interview{
+	left:350px;
+	top:1985px;
+	width:600px;
+	height:auto;
+	color:#fdf6f6;
+	margin-top:150px;
+	margin-left:50px;
+	z-index:7;
+	position: absolute;
+
+}
+
+
+#topinfo{
+		padding-top:25px;
+		width:600px;
+		height:225px;
+		color:#fdf6f6;
+		z-index:7;
+		position: relative;
+
+	}
+
+
+	#qa{
+		width: 600px;
+		height: 200px;
+		color:#191818;
+		padding-top:50px;
+		padding-left:30px;
+		position: relative;
+
+		}
+
+
+
+
+
+/* DOODLES */
+
+
+
+#koharu{
+	top:1850px;
+	left:885px;
+	position:absolute;
+	z-index:0;
+
+}
+
+
+#momo{
+	top:2600px;
+	left:150px;
+	position:absolute;
+	z-index:4;
+
+}
+
+
+#both{
+	top:50px;
+	left:1050px;
+	position:absolute;
+	z-index:0;
+
+
+}
+
+
+#four{
+	top:4000px;
+	left:1050px;
+	position:absolute;
+	z-index:7;
+
+
+}
+
+#five{
+	top:4500px;
+	left:300px;
+	position:absolute;
+	z-index:7;
+
+
+}
+
+#six{
+	top:5200px;
+	left:975px;
+	position:absolute;
+	z-index:7;
+
+
+}
+
+
+
+#drum{
+	top:6375px;
+	left:200px;
+	position:absolute;
+	z-index:7;
+
+
+}
+
+
+
+
+

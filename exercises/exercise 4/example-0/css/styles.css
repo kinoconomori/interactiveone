@@ -1,0 +1,111 @@
+body {
+background-color:#f7e9c3;
+font-size: 30px;
+}
+
+#container {
+width: 215px;
+height: 190px;
+color: #000000;
+background-color: white;
+padding: 5px;
+}
+
+#container2 {
+width: 215px;
+height: 190px;
+color: #000000;
+font-weight: bold;
+background-color: white;
+padding: 50px;
+margin: 50px;
+opacity: 0.4;
+}
+
+#orangebox {
+width: 400px;
+height: 400px;
+background-color: #7ad4b7;
+position: absolute;
+left: 800px;
+top: 500px;
+transform: rotate(30deg);
+}
+
+#redbox {
+width: 400px;
+height: 400px;
+background-color: red;
+position: absolute;
+left: 100px;
+top: 900px;
+transform: rotate(90deg);
+opacity: 0.24;
+}
+
+
+#sillybox {
+width: 250px;
+height: 250px;
+color:white;
+background-color: #cc4dc6;
+position: fixed;
+left: 150px;
+top: 450px;
+transform: rotate(45deg);
+
+}
+
+
+#normalbox {
+width: 300px;
+height: 300px;
+background-color:#f7e9c3;
+color:white;
+position: fixed;
+left: 800px;
+top: 100px;
+outline: 5px dashed #FFFFFF;
+padding:15px;
+
+}
+
+
+#hello {
+color: #ffb66c;
+}
+
+#pinkbox {
+width: 100px;
+height: 200px;
+background-color: black;
+position: relative;
+right:900px;
+top: 900px;
+transform: skewX(25deg);
+}
+
+
+#weirdbox {
+width: 250px;
+height: 250px;
+background-color:#ffb66c;
+position: absolute;
+right:600px;
+top: 350px;
+transform: skewX(60deg);
+
+}
+
+
+.sidebar {
+	font-weight: bold;
+	color:#f7e9c3;
+	background-color:#dfc8b5;
+	font-size:20px;
+	width: 250px;
+	height:800px;
+	padding:10px;
+}
+
+
