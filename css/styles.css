@@ -1,0 +1,97 @@
+
+body{
+	background-color:#a8c5a8;
+
+}
+
+
+a:link{
+	color:#FFFFFF;
+	font-family:'Raleway';
+	font-size:10pt;
+	text-decoration:none;
+	padding-top:5px;
+	padding-bottom:5px;
+	padding-left:5px;
+	padding-top:5px;
+	display:block;
+	background-color:#cbbeb5;
+
+}
+
+a:visited{
+	color:#FFFFFF;
+	font-family:'Raleway';
+	font-size:12pt;
+	text-decoration:none;
+	padding-top:5px;
+	padding-bottom:5px;
+	padding-left:5px;
+	padding-top:5px;
+	display:block;
+	background-color:#cbbeb5;
+
+}
+
+a:hover{
+	color:#FFFFFF;
+	text-decoration:none;
+	background-color:#f1cc32;
+	padding-top:5px;
+	padding-bottom:5px;
+	padding-left:5px;
+	padding-top:5px;
+	display:block;
+}
+
+
+.head1{
+	color:#FFFFFF;
+	font-family: 'Oswald', sans-serif;
+	font-size:25pt;
+
+}
+
+.mainhead{
+	color:#f9f3e7;
+	font-family: 'Oswald', sans-serif;
+	font-size:50pt;
+
+}
+
+
+
+#main{
+		left:200px;
+		top:200px;
+		position:absolute;
+		overflow:auto;
+
+}
+
+
+
+#int{
+		left:725px;
+		top:215px;
+		color:#FFFFFF;
+		font-family: 'Oswald', sans-serif;
+		font-size:15pt;
+		position:absolute;
+		overflow:auto;
+
+}
+
+
+#projects{
+	left:200px;
+	top:299px;
+	position:absolute;
+}
+
+#exercises{
+	left:400px;
+	top:299px;
+	overflow:auto;
+	position:absolute;
+}

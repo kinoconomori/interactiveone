@@ -1,0 +1,62 @@
+body
+{
+	color: #ff7b62;
+	font-family: 'Comfortaa', cursive;
+	background-image: url(../images/slices.jpg);
+	background-repeat: repeat;
+
+}
+
+
+
+
+
+	#container{
+	margin-left:200px;
+	margin-top:200px;
+	height:300px;
+	width:500px;
+	overflow:auto;
+	background-color:#FFFFFF;
+}
+
+
+#links{
+	margin-left:25px;
+	margin-top:20px;
+	height:auto;
+	width:500px;
+	padding:2px;
+	position:absolute;
+
+}
+
+a:link
+{
+	font-size:20px;
+	color:#a8c5a8;
+	background-color:#FFFFFF;
+	text-decoration:none;
+	padding:3px;
+
+}
+
+a:hover
+{
+	font-size:20px;
+	color:#FFFFFF;
+	background-color:#a8c5a8;
+	text-decoration:none;
+	padding:3px;
+
+}
+
+a:visited
+{
+	font-size:20px;
+	color:#a8c5a8;
+	background-color:#FFFFFF;
+	text-decoration:none;
+	padding:3px;
+
+}
